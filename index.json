@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T10:44:26.774Z",
+  "generated": "2026-09-14T19:34:34.713Z",
   "total": 8,
   "articles": [
     {
@@ -72,8 +72,55 @@
         "Calcutta"
       ],
       "githubPath": "published/novel/গৃহদাহ-w6rg26.md",
-      "views": 0,
+      "views": 6,
       "createdAt": "2026-09-14T10:43:08.323Z"
+    },
+    {
+      "id": "HrsnRvkhdez3UsB3Denr",
+      "title": "আমার পরান যাহা চায়",
+      "author": "Economics",
+      "category": "Songs",
+      "summary": "**\"আমার পরান যাহা চায়\"** গানটিতে রবীন্দ্রনাথ ঠাকুর গভীর প্রেম, আকাঙ্ক্ষা এবং আত্মনিবেদনের অনুভূতি প্রকাশ করেছেন।",
+      "tags": [
+        "আমার পরান যাহা চায়",
+        "রবীন্দ্রসঙ্গীত",
+        "রবীন্দ্রনাথ ঠাকুর",
+        "প্রেমের গান",
+        "বাংলা গান",
+        "গীতবিতান",
+        "Tagore Song",
+        "Rabindra Sangeet",
+        "Rabindranath Tagore",
+        "Love Song",
+        "Bengali Music",
+        "Bengali Song",
+        "Classic Bengali Song",
+        "Romantic Song",
+        "বাংলা সংস্কৃতি",
+        "বাংলা সাহিত্য",
+        "প্রেম",
+        "ভালোবাসা",
+        "আত্মনিবেদন",
+        "আকাঙ্ক্ষা",
+        "সঙ্গীত",
+        "কবিগুরু",
+        "Tagore Music",
+        "Indian Classical Influence",
+        "Bengal Culture",
+        "Amar Porano Jaha Chay",
+        "বাংলা ক্লাসিক গান",
+        "বাংলা সঙ্গীত",
+        "Rabindra Sangeet Lyrics Meaning",
+        "Bengali Romantic Song",
+        "Bengali Heritage",
+        "Indian Music",
+        "Bengali Classical Music",
+        "Tagore Literature",
+        "Bengali Art and Culture"
+      ],
+      "githubPath": "published/songs/আমার-পরান-যাহা-চায়-HrsnRv.md",
+      "views": 2,
+      "createdAt": "2026-09-14T19:21:03.372Z"
     },
     {
       "id": "NavMTRNaAsAKZ1QsyTKG",
@@ -93,17 +140,6 @@
       "githubPath": null,
       "views": 40,
       "createdAt": "2026-09-11T09:28:33.569Z"
-    },
-    {
-      "id": "RUatvZatksnNmkPmHxsI",
-      "title": "Test only",
-      "author": "Manojit Majumdar",
-      "category": "Novel",
-      "summary": "",
-      "tags": [],
-      "githubPath": "published/novel/test-only-78ufcb.md",
-      "views": 10,
-      "createdAt": "2026-09-12T18:44:17.197Z"
     },
     {
       "id": "dz8lBkMffs9t23lGCzgq",
