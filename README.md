@@ -2,8 +2,8 @@
 
 > Auto-generated index of published articles
 
-**Total:** 8 articles
-**Updated:** 2026-09-14T10:44:26.927Z
+**Total:** 9 articles
+**Updated:** 2026-09-14T20:48:46.593Z
 
 ---
 
@@ -16,9 +16,13 @@
 ## 📂 Novel
 
 - [গৃহদাহ](./published/novel/গৃহদাহ-w6rg26.md) — *Economics*
-- [Test only](./published/novel/test-only-78ufcb.md) — *Manojit Majumdar*
 - অপুর জগৎ — *Admin User*
 - অপুর সংসার — *Manojit Majumdar*
+
+## 📂 Songs
+
+- [আমার পরান যাহা চায়](./published/songs/আমার-পরান-যাহা-চায়-HrsnRv.md) — *Economics*
+- [মম চিত্তে নিতি নৃত্যে](./published/songs/মম-চিত্তে-নিতি-নৃত্যে-fjxo31.md) — *Economics*
 
 ## 📂 Uncategorized
 
