@@ -2,8 +2,8 @@
 
 > Auto-generated index of published articles
 
-**Total:** 9 articles
-**Updated:** 2026-09-14T20:48:46.593Z
+**Total:** 8 articles
+**Updated:** 2026-09-15T04:52:05.271Z
 
 ---
 
@@ -21,8 +21,7 @@
 
 ## 📂 Songs
 
-- [আমার পরান যাহা চায়](./published/songs/আমার-পরান-যাহা-চায়-HrsnRv.md) — *Economics*
-- [মম চিত্তে নিতি নৃত্যে](./published/songs/মম-চিত্তে-নিতি-নৃত্যে-fjxo31.md) — *Economics*
+- [রবীন্দ্র সংগীত](./published/songs/রবীন্দ্র-সংগীত-tm2izf.md) — *Economics*
 
 ## 📂 Uncategorized
 
