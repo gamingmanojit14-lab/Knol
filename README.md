@@ -3,7 +3,7 @@
 > Auto-generated index of published articles
 
 **Total:** 9 articles
-**Updated:** 2026-09-15T07:49:58.920Z
+**Updated:** 2026-09-15T08:18:12.587Z
 
 ---
 
@@ -19,9 +19,12 @@
 - অপুর জগৎ — *Admin User*
 - অপুর সংসার — *Manojit Majumdar*
 
+## 📂 Research Paper
+
+- [Karl Marx](./published/research-paper/karl-marx-6t8xp3.md) — *Economics*
+
 ## 📂 Songs
 
-- [রবীন্দ্র সংগীত](./published/songs/রবীন্দ্র-সংগীত-abeby2.md) — *Economics*
 - [রবীন্দ্র সংগীত](./published/songs/রবীন্দ্র-সংগীত-fiz108.md) — *Economics*
 
 ## 📂 Uncategorized
