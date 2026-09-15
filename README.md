@@ -2,8 +2,8 @@
 
 > Auto-generated index of published articles
 
-**Total:** 8 articles
-**Updated:** 2026-09-15T07:45:43.210Z
+**Total:** 9 articles
+**Updated:** 2026-09-15T07:49:58.920Z
 
 ---
 
@@ -22,6 +22,7 @@
 ## 📂 Songs
 
 - [রবীন্দ্র সংগীত](./published/songs/রবীন্দ্র-সংগীত-abeby2.md) — *Economics*
+- [রবীন্দ্র সংগীত](./published/songs/রবীন্দ্র-সংগীত-fiz108.md) — *Economics*
 
 ## 📂 Uncategorized
 
